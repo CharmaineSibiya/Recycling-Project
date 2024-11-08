@@ -1,2 +1,2 @@
 # Recycling-Project
-This is my first project on GitHub
+ Learning more about recycling
